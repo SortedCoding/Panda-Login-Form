@@ -9,4 +9,4 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/czB6-PQbXpg))
 # Project preview
 
 ![screenshot](panda.png)
-![screenshot](pandas.png)
+
